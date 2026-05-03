@@ -1,9 +1,4 @@
-## Hi there 👋
 
-<!--
-**mahibunnisa88/mahibunnisa88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# 💫 About Me:
 👩‍💻 Developer with a purpose <br>Turning ☕ into code & ideas into impact 💻✨<br>Java Full Stack Developer (Fresher)  <br>☕ Java | Spring | JDBC | HTML | CSS  <br>💡 Love solving real-world problems with clean code  <br>📚 Constant learner | Problem solver | Tech enthusiast  <br>🚀 Ready to start my journey in tech 
 
 
